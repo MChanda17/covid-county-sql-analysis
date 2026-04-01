@@ -1,7 +1,7 @@
 # COVID County SQL Analysis
 
 ## Overview
-This project analyzes COVID-19 case and death trends across U.S. counties using SQL and Python.
+This project analyzes COVID-19 case and death trends across U.S. counties using SQL and Python to uncover geographic and temporal patterns.
 
 ## Objectives
 - Identify counties with the highest case counts
